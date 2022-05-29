@@ -1,0 +1,254 @@
+[
+  {
+    "company": "VTEX",
+    "country": "brazil",
+    "layoff_percent": 0.13,
+    "date": "2022-05-26T00:00:00.000Z",
+    "link": "https://www.bloomberglinea.com.br/2022/05/26/inverno-chegou-unicornios-vtex-e-bitso-fazem-demissao-em-massa/",
+    "layoffs": 200,
+    "created_at": "2022-05-27T03:23:38.000Z"
+  },
+  {
+    "company": "Olist",
+    "country": "brazil",
+    "layoff_percent": null,
+    "date": "2022-05-23T00:00:00.000Z",
+    "link": "https://www.terra.com.br/noticias/tecnologia/inovacao/unicornio-olist-faz-demissoes-mas-rechaca-crise-na-companhia,255c294ee9e32047e1720aa6397f08e8pvf4joya.html",
+    "layoffs": null,
+    "created_at": "2022-05-25T03:31:13.000Z"
+  },
+  {
+    "company": "Facily",
+    "country": "brazil",
+    "layoff_percent": 0.3,
+    "date": "2022-04-20T00:00:00.000Z",
+    "link": "https://startups.com.br/noticias/brazilian-e-commerce-firm-facily-slashes-workforce-by-30/",
+    "layoffs": 260,
+    "created_at": "2022-04-27T23:14:32.000Z"
+  },
+  {
+    "company": "QuintoAndar",
+    "country": "brazil",
+    "layoff_percent": 0.04,
+    "date": "2022-04-19T00:00:00.000Z",
+    "link": "https://aimgroup.com/2022/04/19/quintoandar-lays-off-4-its-workforce/",
+    "layoffs": 160,
+    "created_at": "2022-04-24T03:25:19.000Z"
+  },
+  {
+    "company": "Loft",
+    "country": "brazil",
+    "layoff_percent": null,
+    "date": "2022-04-19T00:00:00.000Z",
+    "link": "https://thegoaspotlight.com/2022/04/19/loft-lays-off-159-employees-to-reorganize-credit-area/",
+    "layoffs": 159,
+    "created_at": "2022-04-24T03:27:19.000Z"
+  },
+  {
+    "company": "Liv Up",
+    "country": "brazil",
+    "layoff_percent": 0.15,
+    "date": "2022-02-16T00:00:00.000Z",
+    "link": "https://startups.com.br/noticias/liv-up-faz-reestruturacao-e-corta-15-do-quadro/",
+    "layoffs": 100,
+    "created_at": "2022-04-27T23:17:35.000Z"
+  },
+  {
+    "company": "Ebanx",
+    "country": "brazil",
+    "layoff_percent": 0.08,
+    "date": "2020-05-27T00:00:00.000Z",
+    "link": "https://exame.com/pme/comeca-uma-era-mais-pe-no-chao-para-as-startups-diz-fundador-do-ebanx/",
+    "layoffs": 62,
+    "created_at": "2020-06-01T03:39:18.000Z"
+  },
+  {
+    "company": "Mercos",
+    "country": "brazil",
+    "layoff_percent": 0.4,
+    "date": "2020-05-13T00:00:00.000Z",
+    "link": "https://www.linkedin.com/pulse/decis%C3%A3o-mais-dif%C3%ADcil-dos-%C3%BAltimos-10-anos-tiago-brandes/",
+    "layoffs": 51,
+    "created_at": "2020-05-13T21:39:50.000Z"
+  },
+  {
+    "company": "Stone",
+    "country": "brazil",
+    "layoff_percent": 0.2,
+    "date": "2020-05-12T00:00:00.000Z",
+    "link": "https://www.reuters.com/article/us-stoneco-layoff/brazilian-card-processor-stoneco-lays-off-20-of-workforce-1300-employees-idUSKBN22O31N",
+    "layoffs": 1300,
+    "created_at": "2020-05-13T21:12:23.000Z"
+  },
+  {
+    "company": "OYO",
+    "country": "brazil",
+    "layoff_percent": null,
+    "date": "2020-04-25T00:00:00.000Z",
+    "link": "https://headtopics.com/br/oyo-demite-centenas-no-brasil-contaazul-enxuga-um-terco-do-time-link-estad-o-12623044",
+    "layoffs": 500,
+    "created_at": "2020-05-11T14:13:14.000Z"
+  },
+  {
+    "company": "TutorMundi",
+    "country": "brazil",
+    "layoff_percent": 1,
+    "date": "2020-04-24T00:00:00.000Z",
+    "link": "Company executive",
+    "layoffs": 4,
+    "created_at": "2020-05-03T04:35:28.000Z"
+  },
+  {
+    "company": "Movidesk",
+    "country": "brazil",
+    "layoff_percent": 0.25,
+    "date": "2020-04-20T00:00:00.000Z",
+    "link": "https://scinova.com.br/demissoes-a-conta-da-covid-19-bate-as-portas-de-empresas-de-tecnologia-em-santa-catarina/",
+    "layoffs": 33,
+    "created_at": "2020-04-27T22:02:31.000Z"
+  },
+  {
+    "company": "ContaAzul",
+    "country": "brazil",
+    "layoff_percent": 0.35000000000000003,
+    "date": "2020-04-17T00:00:00.000Z",
+    "link": "https://www.contxto.com/en/brazil/startups-brazil-confirm-layoffs-covid-cause/",
+    "layoffs": 140,
+    "created_at": "2020-04-27T21:59:27.000Z"
+  },
+  {
+    "company": "QuintoAndar",
+    "country": "brazil",
+    "layoff_percent": 0.08,
+    "date": "2020-04-17T00:00:00.000Z",
+    "link": "https://labs.ebanx.com/en/notes/brazilian-home-rentals-unicorn-quintoandar-lays-off-8-of-employees/",
+    "layoffs": 88,
+    "created_at": "2020-04-18T13:37:34.000Z"
+  },
+  {
+    "company": "Loft",
+    "country": "brazil",
+    "layoff_percent": 0.1,
+    "date": "2020-04-17T00:00:00.000Z",
+    "link": "https://link.estadao.com.br/noticias/inovacao,quinto-andar-demite-cerca-de-8-do-time-por-conta-do-coronavirus,70003274741",
+    "layoffs": 47,
+    "created_at": "2020-04-18T13:41:28.000Z"
+  },
+  {
+    "company": "Xerpa",
+    "country": "brazil",
+    "layoff_percent": null,
+    "date": "2020-04-14T00:00:00.000Z",
+    "link": "https://www.linkedin.com/posts/nreise_ex-xerpas-incr%C3%ADveis-e-dispon%C3%ADveis-covid-activity-6655927070826221568-kunx/",
+    "layoffs": 10,
+    "created_at": "2020-04-14T22:00:39.000Z"
+  },
+  {
+    "company": "Neon",
+    "country": "brazil",
+    "layoff_percent": 0.1,
+    "date": "2020-04-13T00:00:00.000Z",
+    "link": "https://link.estadao.com.br/noticias/inovacao,neon-demite-funcionarios-e-eventbrite-fecha-operacoes-no-brasil,70003269607",
+    "layoffs": 70,
+    "created_at": "2020-04-14T21:51:39.000Z"
+  },
+  {
+    "company": "BeeTech",
+    "country": "brazil",
+    "layoff_percent": null,
+    "date": "2020-04-10T00:00:00.000Z",
+    "link": "https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2020/04/10/demisses-em-startups-j-somam-quase-mil-pessoas-no-brasil.ghtml",
+    "layoffs": 30,
+    "created_at": "2020-04-29T21:56:07.000Z"
+  },
+  {
+    "company": "Omie",
+    "country": "brazil",
+    "layoff_percent": 0.31,
+    "date": "2020-04-09T00:00:00.000Z",
+    "link": "https://link.estadao.com.br/noticias/inovacao,onda-de-demissoes-em-startups-atinge-getninjas-creditas-e-omie,70003263878",
+    "layoffs": 136,
+    "created_at": "2020-04-09T21:59:05.000Z"
+  },
+  {
+    "company": "Kenoby",
+    "country": "brazil",
+    "layoff_percent": 0.16,
+    "date": "2020-04-08T00:00:00.000Z",
+    "link": "https://link.estadao.com.br/noticias/inovacao,onda-de-demissoes-em-startups-atinge-getninjas-creditas-e-omie,70003263878",
+    "layoffs": 18,
+    "created_at": "2020-04-12T06:37:34.000Z"
+  },
+  {
+    "company": "GetNinjas",
+    "country": "brazil",
+    "layoff_percent": 0.1,
+    "date": "2020-04-08T00:00:00.000Z",
+    "link": "https://link.estadao.com.br/noticias/inovacao,onda-de-demissoes-em-startups-atinge-getninjas-creditas-e-omie,70003263878",
+    "layoffs": 11,
+    "created_at": "2020-04-12T06:41:02.000Z"
+  },
+  {
+    "company": "Creditas",
+    "country": "brazil",
+    "layoff_percent": 0.06,
+    "date": "2020-04-08T00:00:00.000Z",
+    "link": "https://link.estadao.com.br/noticias/inovacao,onda-de-demissoes-em-startups-atinge-getninjas-creditas-e-omie,70003263878",
+    "layoffs": null,
+    "created_at": "2020-04-12T06:39:41.000Z"
+  },
+  {
+    "company": "Rock Content",
+    "country": "brazil",
+    "layoff_percent": 0.2,
+    "date": "2020-04-06T00:00:00.000Z",
+    "link": "https://link.estadao.com.br/noticias/inovacao,startups-brasileiras-fazem-demissoes-por-conta-do-coronavirus,70003262126",
+    "layoffs": 100,
+    "created_at": "2020-04-06T21:18:32.000Z"
+  },
+  {
+    "company": "C6 Bank",
+    "country": "brazil",
+    "layoff_percent": 0.06,
+    "date": "2020-04-06T00:00:00.000Z",
+    "link": "https://link.estadao.com.br/noticias/inovacao,startups-brasileiras-fazem-demissoes-por-conta-do-coronavirus,70003262126",
+    "layoffs": 60,
+    "created_at": "2020-04-06T21:17:19.000Z"
+  },
+  {
+    "company": "Gympass",
+    "country": "brazil",
+    "layoff_percent": 0.33,
+    "date": "2020-04-03T00:00:00.000Z",
+    "link": "https://forbes.com.br/negocios/2020/04/exclusivo-gympass-desliga-um-terco-dos-colaboradores/",
+    "layoffs": 467,
+    "created_at": "2020-04-05T21:25:43.000Z"
+  },
+  {
+    "company": "MaxMilhas",
+    "country": "brazil",
+    "layoff_percent": 0.42,
+    "date": "2020-04-03T00:00:00.000Z",
+    "link": "https://revistapegn.globo.com/Startups/noticia/2020/04/por-novo-coronavirus-startups-gympass-e-maxmilhas-cortam-equipes.html",
+    "layoffs": 167,
+    "created_at": "2020-04-06T05:08:41.000Z"
+  },
+  {
+    "company": "Loft",
+    "country": "brazil",
+    "layoff_percent": null,
+    "date": "2020-03-27T00:00:00.000Z",
+    "link": "https://br.financas.yahoo.com/noticias/startup-loft-demitiu-47-antes-165500949.html",
+    "layoffs": 47,
+    "created_at": "2020-04-08T20:43:37.000Z"
+  },
+  {
+    "company": "Bcredi",
+    "country": "brazil",
+    "layoff_percent": null,
+    "date": "2020-03-27T00:00:00.000Z",
+    "link": "https://layoffs.fyi/list/bcredi/",
+    "layoffs": null,
+    "created_at": "2020-04-25T15:28:59.000Z"
+  }
+]
